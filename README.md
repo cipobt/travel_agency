@@ -5,9 +5,13 @@ Welcome to the Globetrotters Travel Agent project! This Python-based project ena
 Features
 
 • Calculate the total cost for a hotel stay
+
 • Calculate the total cost for a flight depending on the destination city
+
 • Calculate the cost for car rental depending on the number of days the car will be hired
+
 • Calculate the total holiday cost depending on different combinations of the above items
+
 • An interactive command-line interface with coloured outputs for enhanced user experience
 
 Prerequisites
